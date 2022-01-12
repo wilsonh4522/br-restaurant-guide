@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## [Japanese](https://harusushi.com/)
 ## [Thai](https://www.fishcheeksnyc.com/)
 ---
-[Start Over](../../home.md)
+[Start Over](../.home.md)
