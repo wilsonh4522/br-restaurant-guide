@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## [Japanese](asian/japanese.md)
 ## [Thai](asian/thai.md)
 ---
-[Start Over](../../home.md)
+[Start Over](home.md)
